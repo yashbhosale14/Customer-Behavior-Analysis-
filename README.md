@@ -26,20 +26,28 @@ methods.
 
 Raw Customer Data
         ↓
+        
 Python Data Exploration
         ↓
+        
 Data Cleaning & Preprocessing
         ↓
+        
 Feature Engineering
         ↓
+        
 PostgreSQL Database
         ↓
+        
 SQL Business Analysis
         ↓
+
 Power BI Data Modeling & Visualization
         ↓
+        
 Interactive Customer Behavior Dashboard
         ↓
+        
 Business Insights & Recommendations
 
 ### Tools & Technologies
