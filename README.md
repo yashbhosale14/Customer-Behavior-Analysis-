@@ -24,38 +24,25 @@ methods.
 
 ### Project Workflow
 
-Raw Customer Data
+RAW CUSTOMER DATA
         ↓
-
-        
-Python Data Exploration
+PYTHON DATA EXPLORATION
         ↓
-
-        
-Data Cleaning & Preprocessing
+DATA CLEANING & PREPROCESSING
         ↓
-
-        
-Feature Engineering
+FEATURE ENGINEERING
         ↓
-
-        
-PostgreSQL Database
+POSTGRESQL DATABASE
         ↓
-        
-SQL Business Analysis
+SQL BUSINESS ANALYSIS
         ↓
-
-
-Power BI Data Modeling & Visualization
+POWER BI DATA MODELING
         ↓
-
-        
-Interactive Customer Behavior Dashboard
+INTERACTIVE POWER BI DASHBOARD
         ↓
-
-        
-Business Insights & Recommendations
+BUSINESS INSIGHTS
+        ↓
+BUSINESS RECOMMENDATIONS
 
 ### Tools & Technologies
 
